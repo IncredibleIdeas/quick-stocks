@@ -1,0 +1,76 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Running Shoes",
+        "description": "Comfortable running shoes with cushioned soles for maximum comfort during workouts.",
+        "price": "$79.99",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "keywords": ["shoes", "running", "sports", "athletic"],
+        "whatsappLink": "https://wa.me/channel/your-channel-id?text=Running%20Shoes"
+      },
+      {
+        "id": 2,
+        "name": "Casual Sneakers",
+        "description": "Stylish casual sneakers perfect for everyday wear.",
+        "price": "$59.99",
+        "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "keywords": ["shoes", "sneakers", "casual", "footwear"],
+        "whatsappLink": "https://whatsapp.com/channel/0029VbBoWDlKwqSV5vmYDq10/111"
+      },
+      {
+        "id": 3,
+        "name": "Wireless Earbuds",
+        "description": "High-quality wireless earbuds with noise cancellation.",
+        "price": "$129.99",
+        "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "keywords": ["electronics", "earbuds", "audio", "wireless"],
+        "whatsappLink": "https://wa.me/channel/your-channel-id?text=Wireless%20Earbuds"
+      },
+      {
+        "id": 4,
+        "name": "Smartphone",
+        "description": "Latest smartphone with advanced camera and long battery life.",
+        "price": "$699.99",
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "keywords": ["electronics", "phone", "smartphone", "mobile"],
+        "whatsappLink": "https://wa.me/channel/your-channel-id?text=Smartphone"
+      },
+      {
+        "id": 5,
+        "name": "T-Shirt",
+        "description": "Comfortable cotton t-shirt available in multiple colors.",
+        "price": "$19.99",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "keywords": ["clothing", "tshirt", "apparel", "casual"],
+        "whatsappLink": "https://wa.me/channel/your-channel-id?text=T-Shirt"
+      },
+      {
+        "id": 6,
+        "name": "Jeans",
+        "description": "Classic denim jeans with a comfortable fit.",
+        "price": "$49.99",
+        "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "keywords": ["clothing", "jeans", "pants", "denim"],
+        "whatsappLink": "https://wa.me/channel/your-channel-id?text=Jeans"
+      },
+      {
+        "id": 7,
+        "name": "Laptop",
+        "description": "Powerful laptop for work and entertainment.",
+        "price": "$999.99",
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "keywords": ["electronics", "laptop", "computer", "tech"],
+        "whatsappLink": "https://wa.me/channel/your-channel-id?text=Laptop"
+      },
+      {
+        "id": 8,
+        "name": "Backpack",
+        "description": "Durable backpack with multiple compartments.",
+        "price": "$39.99",
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "keywords": ["accessories", "backpack", "bag", "travel"],
+        "whatsappLink": "https://wa.me/channel/your-channel-id?text=Backpack"
+      }
+    ]
+  }
